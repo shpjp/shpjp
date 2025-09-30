@@ -1,5 +1,5 @@
 21, engineer. I would like to commit.
-![Profile views](https://komarev.com/ghpvc/?username=shpjp)
+<!--![Profile views](https://komarev.com/ghpvc/?username=shpjp)
 
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm shubham</h1>
@@ -22,7 +22,7 @@
 
 
 
-<!--
+
 **shpjp/shpjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
